@@ -1,24 +1,15 @@
 
----------
-title:  'Pediatric brain-cancer-detection-using-computer-vision-'\
-journal: 'not published'
-author:
+# title:  'Pediatric brain cancer detection using computer vision'
+### journal: 'not published'
+### author:
 - name: Valerio Messina
 email: v.messina04@gmail.com
   footnote: 1
-abbreviation:
-
----
-title:  'Pediatric brain tumor detection using computer vision'
-author:
-- name: Valerio Messina
-  footnote: 1
-abbreviation:
+  ### abbreviation:
   - MRI, magnetic resonance imaging 
-abstract: |
+  ## abstract: 
   In this study, I tried to implement a DNN that detects and classify pediatric brain tumors using MRI imaging.
 
-...
 
 
 
